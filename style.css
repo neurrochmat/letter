@@ -73,24 +73,24 @@
   font-size: 0.5rem;
   width: 30%;
   height: 7%;
-  font-size: 0.5rem;
+  font-size: 0.6rem;
 }
 
 .words.line2 {
   top: 30%;
   text-align: center;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 
 .words.line3 {
   top: 50%;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   text-align: center;
 }
 
 .words.line4 {
   top: 70%;
-  font-size: 0.7rem;
+  font-size: 0.8rem;
   text-align: center;
 }
 
